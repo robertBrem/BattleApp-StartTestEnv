@@ -1,3 +1,5 @@
+#!/usr/bin/jjs -fv
+
 var FileWriter = Java.type("java.io.FileWriter");
 
 var version = $ENV.VERSION;
